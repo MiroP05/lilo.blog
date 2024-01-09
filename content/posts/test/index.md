@@ -3,7 +3,7 @@ title = "Paris: zwischen Blumenkaffees und Graffitiwänden  "
 date = "2023-09-15"
 draft = false
 pinned = false
-image = ""
+image = "image-009.jpg"
 +++
 {{<lead>}}
 
