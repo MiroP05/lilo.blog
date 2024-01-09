@@ -60,5 +60,3 @@ Mit diesen erstaunlichen Informationen verlässt uns unser Reiseführer und wir 
 Während einer Verkehrskontrolle in Nanterre, einem Vorort von Paris, ereignete sich am 27. Juni 2023 eine tragische Begebenheit, bei der der 17-jährige Nahel Merzouk ums Leben kam, nachdem er von einem Polizeibeamten erschossen wurde. Zunächst gab die französische Polizei an, dass der Schuss in Notwehr abgefeuert worden sei. Diese Darstellung wurde jedoch durch ein in den sozialen Medien aufgetauchtes Video widerlegt. Die Veröffentlichung des Videos führte zu anhaltenden Protesten und gewaltsamen Unruhen, die sich während mehreren Tagen im Großraum Paris und in zahlreichen anderen Städten Frankreichs ausbreiteten.
 
 {{</box>}}
-
-so fuck you
