@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "m24c"
-image = "/media/unknown.jpg"
+name = "Patrik Star"
+image = ""
 url = "/about/"
 +++
