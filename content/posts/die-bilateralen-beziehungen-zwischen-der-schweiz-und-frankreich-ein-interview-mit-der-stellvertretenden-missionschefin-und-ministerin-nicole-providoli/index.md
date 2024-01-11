@@ -6,13 +6,13 @@ pinned = false
 image = "image-000.jpg"
 +++
 {{<lead>}}
-Mitten in Paris, nicht weit vom Eiffelturm entfernt steht die Schweizer Botschaft in Frankreich. Aus der Ferne ist das Gebäude kaum zu erkennen, da es sich von allen anderen Gebäuden nur schwer unterscheiden lässt. Aber mit zunehmender Nähe bemerkt man eine blaue Tür, die einzigartig in der Gegend ist. Rechts neben dieser Tür ist ein Schweizer Logo zu sehen. Diese beiden Merkmale geben uns die Sicherheit, dass wir vor dem richtigen Gebäude stehen.\
+Mitten in Paris, nicht weit vom Eiffelturm entfernt steht die Schweizer Botschaft in Frankreich. Aus der Ferne ist das Gebäude kaum zu erkennen, da es sich von allen anderen Gebäuden nur schwer unterscheiden lässt. Aber mit zunehmender Nähe bemerkt man eine blaue Tür, die einzigartig in der Gegend ist. Rechts neben dieser Tür ist ein Schweizer Logo zu sehen. Diese beiden Merkmale geben uns die Sicherheit, dass wir vor dem richtigen Gebäude stehen.
 {{</lead>}}
 
 ![1: Aussengebäude](image-000.jpg)
 
 {{<box>}}
-Seit 1938 ist das Hôtel de Besenval der Sitz der Schweizer Botschaft in Frankreich. Das Hôtel de Besenval befindet sich in der Rue de Grenelle 142 im 7. Pariser Arrondissement. In der zweiten Hälfte des 18. Jahrhunderts war das Gebäude, das heute als Botschaft und Residenz des Schweizer Botschafters dient, der Wohnsitz von Baron Pierre-Victor de Besenval, einem Kommandeur der Schweizer Garde. Als die Französische Revolution ausbrach, die Besenval vorausgesehen hatte, hatte er das Kommando über die Garnison von Paris. Er hätte den Sturm auf die Bastille am 14. Juli 1789 mit Gewalt abwehren sollen. Doch um einen Bürgerkrieg zu verhindern, traf er die historische Entscheidung, den Schweizer Regimentern den gewaltlosen Rückzug vor der bewaffneten Bevölkerung zu befehlen.\
+Seit 1938 ist das Hôtel de Besenval der Sitz der Schweizer Botschaft in Frankreich. Das Hôtel de Besenval befindet sich in der Rue de Grenelle 142 im 7. Pariser Arrondissement. In der zweiten Hälfte des 18. Jahrhunderts war das Gebäude, das heute als Botschaft und Residenz des Schweizer Botschafters dient, der Wohnsitz von Baron Pierre-Victor de Besenval, einem Kommandeur der Schweizer Garde. Als die Französische Revolution ausbrach, die Besenval vorausgesehen hatte, hatte er das Kommando über die Garnison von Paris. Er hätte den Sturm auf die Bastille am 14. Juli 1789 mit Gewalt abwehren sollen. Doch um einen Bürgerkrieg zu verhindern, traf er die historische Entscheidung, den Schweizer Regimentern den gewaltlosen Rückzug vor der bewaffneten Bevölkerung zu befehlen.
 {{</box>}}
 
 Das Hôtel der Schweizer Botschaft wurde 1705 für Abbé Chanac de Pompadour erbaut. Im Jahr 1720 ging das Haus nach dem Tod des Abbé de Pompadour an dessen Nichten über und wurde später von verschiedenen französischen Adelsfamilien gekauft, bevor Baron Pierre-Victor de Besenval es 1767 erwarb. Er beauftragte den Architekten Brongniart, einen prachtvollen Speisesaal einzurichten, und liess im Keller ein Nymphäum errichten, dessen kunstvolle Dekoration vom Bildhauer Clodion geschaffen wurde. 
