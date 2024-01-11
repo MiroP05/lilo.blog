@@ -5,15 +5,15 @@ draft = false
 pinned = false
 image = "image-000.jpg"
 +++
-`{{<lead>}}`\
+{{<lead>}}
 Mitten in Paris, nicht weit vom Eiffelturm entfernt steht die Schweizer Botschaft in Frankreich. Aus der Ferne ist das Gebäude kaum zu erkennen, da es sich von allen anderen Gebäuden nur schwer unterscheiden lässt. Aber mit zunehmender Nähe bemerkt man eine blaue Tür, die einzigartig in der Gegend ist. Rechts neben dieser Tür ist ein Schweizer Logo zu sehen. Diese beiden Merkmale geben uns die Sicherheit, dass wir vor dem richtigen Gebäude stehen.\
-`{{</lead>}}`
+{{</lead>}}
 
 ![1: Aussengebäude](image-000.jpg)
 
-`{{<box>}}`\
+{{<box>}}
 Seit 1938 ist das Hôtel de Besenval der Sitz der Schweizer Botschaft in Frankreich. Das Hôtel de Besenval befindet sich in der Rue de Grenelle 142 im 7. Pariser Arrondissement. In der zweiten Hälfte des 18. Jahrhunderts war das Gebäude, das heute als Botschaft und Residenz des Schweizer Botschafters dient, der Wohnsitz von Baron Pierre-Victor de Besenval, einem Kommandeur der Schweizer Garde. Als die Französische Revolution ausbrach, die Besenval vorausgesehen hatte, hatte er das Kommando über die Garnison von Paris. Er hätte den Sturm auf die Bastille am 14. Juli 1789 mit Gewalt abwehren sollen. Doch um einen Bürgerkrieg zu verhindern, traf er die historische Entscheidung, den Schweizer Regimentern den gewaltlosen Rückzug vor der bewaffneten Bevölkerung zu befehlen.\
-`{{</box>}`
+{{</box>}}
 
 Das Hôtel der Schweizer Botschaft wurde 1705 für Abbé Chanac de Pompadour erbaut. Im Jahr 1720 ging das Haus nach dem Tod des Abbé de Pompadour an dessen Nichten über und wurde später von verschiedenen französischen Adelsfamilien gekauft, bevor Baron Pierre-Victor de Besenval es 1767 erwarb. Er beauftragte den Architekten Brongniart, einen prachtvollen Speisesaal einzurichten, und liess im Keller ein Nymphäum errichten, dessen kunstvolle Dekoration vom Bildhauer Clodion geschaffen wurde. 
 
@@ -25,7 +25,7 @@ Vor der beeindruckenden Botschaft versammeln wir uns fasziniert von der Pracht d
 
 ![3: Raum des Interviews](image-006.jpg)
 
-![](<>)Zu Beginn des Interviews stellt sich die Ministerin unserer Klasse kurz vor. *"Mein Name ist Nicole Providoli",* beginnt sie*, "und als stellvertretende Missionschefin der Schweizer Botschaft in Frankreich trage ich die Verantwortung den Schweizer Botschafter während seiner Abwesenheit zu vertreten. Ich habe einen akademischen Hintergrund in Soziologie und Recht. Dieses Wissen dient mir als solide Grundlage für meine Arbeit als Diplomatin."*
+Zu Beginn des Interviews stellt sich die Ministerin unserer Klasse kurz vor. *"Mein Name ist Nicole Providoli",* beginnt sie*, "und als stellvertretende Missionschefin der Schweizer Botschaft in Frankreich trage ich die Verantwortung den Schweizer Botschafter während seiner Abwesenheit zu vertreten. Ich habe einen akademischen Hintergrund in Soziologie und Recht. Dieses Wissen dient mir als solide Grundlage für meine Arbeit als Diplomatin."*
 
 Ihre Ausführungen ergänzt Frau Providoli mit einer beeindruckenden Darstellung von Statistiken, die die hervorragenden Beziehungen zwischen der Schweiz und Frankreich aufzeigen. Diese wertvollen Informationen werden uns auch in Form einer Broschüre präsentiert, die anschauliche Statistiken enthält. Nachfolgend sind einige der bemerkenswertesten statistischen Daten aufgeführt:
 
@@ -61,6 +61,6 @@ Die Szene zeigt, wie Ludwig XIV. und die Botschafter der Schweizer Kantone einen
 
 ![5: Innenraum und Sofa](image-009.jpg)
 
-![](<>)Beim Betreten der Räumlichkeiten werden wir von einer Vielzahl faszinierender Gemälde empfangen, von denen viele Papageien darstellen. Dieser Schwerpunkt lässt sich darauf zurückführen, dass der frühere Besitzer der Botschaft eine besondere Vorliebe für die Natur hatte. Die beeindruckenden Kunstwerke verleihen den Räumen eine lebendige Atmosphäre, was uns allen gefällt.
+Beim Betreten der Räumlichkeiten werden wir von einer Vielzahl faszinierender Gemälde empfangen, von denen viele Papageien darstellen. Dieser Schwerpunkt lässt sich darauf zurückführen, dass der frühere Besitzer der Botschaft eine besondere Vorliebe für die Natur hatte. Die beeindruckenden Kunstwerke verleihen den Räumen eine lebendige Atmosphäre, was uns allen gefällt.
 
 Das Interview mit Ministerin Nicole Providoli zeigte uns eindrücklich die besonderen Verbindungen zwischen der Schweiz und Frankreich. Von historischen Eidschwüren bis hin zu aktuellen wirtschaftlichen, kulturellen und gesellschaftlichen Austauschen. All dies offenbart die enge Partnerschaft zwischen den beiden Ländern. Die beeindruckende Pracht der Botschaft und die symbolträchtigen Kunstwerke unterstreichen diese Verbindung. Ministerin Providolis Einblicke in die Grenzgänger-Thematik und die Förderung von Kooperationen verdeutlichen, wie die Beziehung beider Länder weiterwächst und sich entwickelt.
