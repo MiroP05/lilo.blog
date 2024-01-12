@@ -15,9 +15,9 @@ Mitten in der französischen Hauptstadt Paris steht das Hauptquartier der UNESCO
 
 Das Wetter ist angenehm sommerlich, als wir die Pariser Metrostation Ségur verlassen und uns auf den kurzen Weg zum UNESCO-Hauptsitz machen. Dieser befindet sich unweit des Eiffelturms im siebten Pariser Arrondissement, gegenüber der École Militaire.
 
-`{{<box>}}`\
+{{<box>}}\
 Die UNESCO ist eine internationale Organisation, die im Jahr 1945 gegründet wurde. Seit ihrer Gründung befindet sich ihr Hauptsitz in Paris, der jetzige Sitz wurde jedoch erst 1958 eröffnet. UNESCO ist die Abkürzung für *United Nations Educational, Scientific and Cultural Organization*. Die UNESCO umfasst zahlreiche verschiedene Abteilungen. Dazu gehören die alle zwei Jahre stattfindende Generalversammlung, der Exekutivausschuss und das Sekretariat. Neben zehn Einrichtungen, welche nationale Büros bei spezifischen Programmen assistieren, verfügt die Institution über 65 globale Niederlassungen. Ausserdem zählt die UNESCO zu den 17 rechtlich selbstständigen Sonderorganisationen der Vereinten Nationen und hat 194 Mitgliedsstaaten sowie 12 assoziierte Mitglieder. Ihr Ziel ist, weltweit zum Erhalt von Frieden und Sicherheit beizutragen, indem sie die Zusammenarbeit zwischen Nationen und Völkern in den Bereichen Bildung, Forschung und Kultur fördert.[](applewebdata://942DF6F9-FA14-4DC5-B277-F45B58C39073#_edn1) Die universelle Geltung dieser Werte geht unter anderem auf die Aufklärung zurück. Demnach kann die Aufklärung auch als eine Grundlage internationaler Organisationen wie der UNESCO gesehen werden. \
-`{{</box>}}`
+{{</box>}}
 
 ![1: Der UNESCO-Hauptsitz von aussen betrachtet](image-000.jpg)
 
@@ -43,9 +43,9 @@ Von der Sphäre aus blickend ist ein Eingang mit einem imposanten, speziell gefo
 
 Als wir unsere Tour fortsetzen und weiter durch den Aussenbereich schlendern, gelangen wir in eine ruhige, grüne Oase, welche sich stark vom Pariser Grossstadttrubel und den Protesten gegen Polizeigewalt unterscheidet.
 
-`{{<box>}}`\
+{{<box>}}\
 Unmittelbar vor unserem Aufenthalt in Paris ereigneten sich heftige Proteste. Ursache war die gewaltsame Tötung eines 17-jährigen Jugendlichen durch Polizeikräfte. Die Proteste waren oftmals von Ausschreitungen begleitet und es kam zur Inbrandsetzung von Fahrzeugen, zur Erstürmung und Plünderung von Geschäften und zu anderen Formen der Zerstörung. Die Szenerie erinnerte an Darstellungen aus Kriegsfilmen – eine befremdliche Kulisse, die sich nur unweit des Hauptsitzes der angesehenen Friedensorganisation abspielte. In der Innenstadt waren bis auf manche verbarrikadierten Geschäfte keine signifikanten Spuren der Unruhen sichtbar. \
-`{{</box>}}`
+{{</box>}}
 
 ![6: Die Klasse im japanischen Garten](image-007.jpg)
 
