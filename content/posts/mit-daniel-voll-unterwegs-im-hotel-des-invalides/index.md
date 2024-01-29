@@ -3,6 +3,7 @@ title = "Mit Daniel Voll unterwegs im Hôtel des Invalides"
 date = "2024-01-16"
 draft = false
 pinned = false
+image = "image-001.jpg"
 +++
 {{<lead>}}
 
@@ -10,19 +11,19 @@ Gespräch mit dem SRF-Korrespondenten über die Bedeutung des Hôtel des Invalid
 
 {{</lead>}}
 
-![]( "1: SRF-Korrespondent Daniel Voll in Paris")
+![](image-002.jpg "1: SRF-Korrespondent Daniel Voll in Paris")
 
 Die Französische Revolution ist heutzutage fast jedem ein Begriff. Welche Folgen der Revolution und der Aufklärung im heutigen Paris immer noch erkennbar sind, ist eher weniger bekannt. Um herauszufinden, was aus den Werten der Aufklärung geworden ist, treffen wir uns mit dem SRF-Korrespondenten Daniel Voll zu einem aufschlussreichen Gespräch bei einem der geschichtsträchtigsten Gebäude von Paris.
 
 Als wir, etwas verspätet, die Sicherheitskontrolle des Hôtel des Invalides passieren, wartet bereits ein sympathischer, eher kleiner, bärtiger Mann auf uns. Dieser stellt sich uns als Daniel Voll vor. Als SRF-Korrespondent in Paris ist er für die Berichterstattung der wichtigen Themen von ganz Frankreich verantwortlich.
 
-![]( "2: Hôtel des Invalides")
+![](image-000.jpg "2: Hôtel des Invalides")
 
 Zu Beginn erfahren wir von ihm vieles über den historischen Ort, an dem wir uns befinden. Das Eindrücklichste ist, dass Napoleon angeblich in diesem grossen Kuppelbau begraben sei. Der Bau wirkt mächtig und eindrucksvoll. Wir verlassen den Eingangsbereich und begeben uns in den Innenhof.
 
 Daniel Voll hat das Hôtel des Invalides als Treffpunkt vorgeschlagen, weil dieses Gebäude eine wichtige Bedeutung für unser Blockwochenthema habe. Wir befassen uns mit den Spuren der Aufklärung.
 
-![]( "Der Innenhof")
+![](image-001.jpg "Der Innenhof")
 
 Auf dem Weg in den Innenhof erklärt uns Daniel Voll, dass das Hôtel des Invalides ursprünglich, unter der Herrschaft von König Ludwig XIV. im 17. Jahrhundert, als Spital und Altersheim für Kriegsveteranen errichtet worden sei. Es symbolisiere die königliche Hilfe für diejenigen, die ihr Leben im Dienste des Staates riskierten. Während der Epoche der Aufklärung im 18. Jahrhundert fanden zahlreiche Diskussionen über die Konzepte und Prinzipien dieser intellektuellen Bewegung auf politischer und gesellschaftlicher Ebene statt. Themen wie Vernunft, wissenschaftlicher Fortschritt, individuelle Freiheit und soziale Gerechtigkeit wurden intensiv diskutiert. «Das Hôtel des Invalides symbolisiert die Ideale der Aufklärung, weil der Fokus auf dem Wohl der Gesellschaft liegt und die Bedürfnisse jedes Einzelnen anerkannt werden. Heutzutage wird der Platz weitgehend für Gedenkfeiern verwendet», fügt der SRF-Korrespondent hinzu. 
 
@@ -36,7 +37,7 @@ Laizismus, auch Trennung von Kirche und Staat genannt, bedeutet, dass Religion u
 
 Heutzutage drehe sich die politische Debatte mehr um den signifikanten Anstieg der muslimischen Bevölkerung in Frankreich. Auch hier habe der Staat eingegriffen. «Die Kopftücher wurden im Jahre 2004 verboten», sagt uns Daniel Voll. Viele Muslim*innen lebten heute in den Banlieues, wo es viele Spannungen gebe. «In den Banlieues von Paris wurde vor ein paar Tagen der 17-jährige Nahel von einem Polizisten erschossen und es kam zu grossen Ausschreitungen. Warum kommt es denn in Frankreich immer wieder zu Auseinandersetzungen?», fragen wir Daniel Voll. Er antwortet, dass es in Frankreich immer noch extreme soziale Ungleichheiten gebe. In Paris sei der Kontrast zwischen den Banlieues und der Stadt besonders gross. Weil die Preise in der Stadt immer weiter stiegen, würden die ärmeren Leute an den Stadtrand gedrängt. Die Konsequenz davon sei, dass dort die Kriminalitätsrate steige. «Aufgrund steigender Preise, zum Beispiel von Benzin, ist die Wut der ärmeren Bevölkerung so gross, dass sie demonstrieren müssen», fügt Daniel Voll hinzu. Wir entscheiden uns, den Standort zu wechseln, weil auf einmal viele laute Klassen im Innenhof sind und wir beinahe schreien müssen, um uns zu verständigen.
 
-![]( "4: Daniel Voll spricht über die Rentenreform")
+![](image-004.jpg "4: Daniel Voll spricht über die Rentenreform")
 
 Auf dem Weg nach draussen können wir auf der rechten Seite frei herumlaufende Kaninchen
 
@@ -44,7 +45,7 @@ bestaunen. Der Weg zu einer grossen Wiese zwischen dem Hôtel des Invalides und 
 
 Dutzenden Polizisten vorbei, welche das Invalides beschützen. Unsere Gespräche werden andauernd von Sirenen übertönt. Nach der Überquerung der Rue de Grenelle gelangen wir schliesslich auf eine friedliche Wiese, die sogenannte Esplanade des Invalides. Da es immer noch früher Nachmittag an einem Wochentag ist, hat es dort kaum andere Menschen. Auf der Wiese setzen wir uns in einem Kreis hin.
 
-![]( "5: Gespräch auf der Esplanade des Invalides")
+![](image-003.jpg "5: Gespräch auf der Esplanade des Invalides")
 
 «Die Idee der Rentenreform ist, das Rentenalter von 62 auf 64 Jahre zu erhöhen und ein Punktesystem einzuführen. Wie genau funktioniert dieses Punktesystem?», fragen wir weiter. Daniel Voll erklärt uns, dass das Punktesystem bereits seit 2019 in Kraft sei und die aktuelle Rentenreform der zweite Anlauf der Regierung von Macron sei, das Rentensystem weiter zu reformieren. Das Rentensystem wurde damals in eine Alterssparkasse, welche mit der 2. Säule der Schweiz verglichen werden kann, umgewandelt. «Die grösste Änderung der jetzigen Rentenreform ist, dass die Beitragsjahre von 41 auf 43 erhöht werden. Das heisst, dass jede/r französische Bürger*in 43 Jahre arbeiten muss, um seine Rente zu erhalten», fährt er fort. «Weshalb stösst dies beim Volk auf grossen Widerstand?» Daniel Voll erwidert mit seiner ruhigen Stimme, dass die Erhöhung der Beitragsjahre für viele ein Problem sei. «Wisst ihr schon, in welchem Alter ihr zu arbeiten beginnen wollt?» Wir antworten, dass wir wohl ungefähr mit 25 Jahren richtig zu arbeiten beginnen würden, weil wir noch studieren, auf Reisen gehen wollten und ins Militär müssten. «Wenn ihr mit 25 Jahren zu arbeiten beginnen würdet und dann 43 Jahre arbeiten müsstet», rechnet uns Daniel Voll vor, «dann wärt ihr frühstens mit 68 Jahren in Pension»
 
