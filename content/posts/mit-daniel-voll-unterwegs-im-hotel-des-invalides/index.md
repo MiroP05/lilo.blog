@@ -23,7 +23,7 @@ Zu Beginn erfahren wir von ihm vieles über den historischen Ort, an dem wir uns
 
 Daniel Voll hat das Hôtel des Invalides als Treffpunkt vorgeschlagen, weil dieses Gebäude eine wichtige Bedeutung für unser Blockwochenthema habe. Wir befassen uns mit den Spuren der Aufklärung.
 
-![](image-001.jpg "Der Innenhof")
+![](image-001.jpg "3: Der Innenhof")
 
 Auf dem Weg in den Innenhof erklärt uns Daniel Voll, dass das Hôtel des Invalides ursprünglich, unter der Herrschaft von König Ludwig XIV. im 17. Jahrhundert, als Spital und Altersheim für Kriegsveteranen errichtet worden sei. Es symbolisiere die königliche Hilfe für diejenigen, die ihr Leben im Dienste des Staates riskierten. Während der Epoche der Aufklärung im 18. Jahrhundert fanden zahlreiche Diskussionen über die Konzepte und Prinzipien dieser intellektuellen Bewegung auf politischer und gesellschaftlicher Ebene statt. Themen wie Vernunft, wissenschaftlicher Fortschritt, individuelle Freiheit und soziale Gerechtigkeit wurden intensiv diskutiert. «Das Hôtel des Invalides symbolisiert die Ideale der Aufklärung, weil der Fokus auf dem Wohl der Gesellschaft liegt und die Bedürfnisse jedes Einzelnen anerkannt werden. Heutzutage wird der Platz weitgehend für Gedenkfeiern verwendet», fügt der SRF-Korrespondent hinzu. 
 
