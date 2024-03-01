@@ -29,12 +29,12 @@ Obwohl die Ideen der Aufklärungszeit durch Kunst lebend gehalten sind, kann man
 
 Es ist eine große Schande, den Louvre zu besuchen, nur um ein Gemälde zu sehen, nämlich die Mona Lisa von Leonardo Da Vinci, und nicht die Gelegenheit zu nutzen, die Vielfalt des Museums zu erleben. Besonders beeindruckend fand ich die Galerie des griechischen Sonnengottes Apollo, eine Darstellung der Identifikation des Königs Louis XIV mit dem Gott Apollo. Um dieses Meisterwerk der architektonischen Dekoration zu schaffen, berief er die besten Maler, Vergolder und Bildhauer seiner Zeit, die später auch am Spiegelsaal des Schlosses von Versailles arbeiteten. Heute beherbergt die Galerie d'Apollon die königliche Sammlung von Hartsteingefäßen und die französischen Kronjuwelen.
 
-![](image-004.jpg)
-
 ![](image-003.jpg)
+
+![](image-004.jpg)
 
 ![](image-005.jpg)
 
-Die obigen Bilder stammen aus der Galerie von Apollo. Von links nach rechts: die königliche Sammlung von Hartsteingefäßen, die Krone von Louis XV, Augustin Duflos Laurent Rondé und die Decke des Raumes, die die detaillierte architektonische Gestaltung zeigt.
+Die obigen Bilder stammen aus der Galerie von Apollo. Von oben nach unten: die königliche Sammlung von Hartsteingefäßen, die Krone von Louis XV, Augustin Duflos Laurent Rondé und die Decke des Raumes, die die detaillierte architektonische Gestaltung zeigt.
 
 Rückblickend war dieser Besuch im Louvre eine Erinnerung an die Bedeutung und Kraft der Kunst und aufschlussreich.
