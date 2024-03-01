@@ -11,15 +11,15 @@ Der Mensch drückt sich seit jeher durch Kunst und Musik aus, und ihre Bedeutung
 
 Künstler verwendeten ihre Werke, um wichtige Ereignisse und Persönlichkeiten der Aufklärungszeit zu feiern. Sowie die Französische Revolution von Eugene Delacroix und den Philosophen Voltaire.
 
-![](image-000.jpg "1: La Liberté guidant le peuple von Eugène Delacroix, 1830")
+![1: La Liberté guidant le peuple, Eugène Delacroix (1830)](image-000.jpg)
 
 Die Revolution war eine Zeit großer sozialer Umwälzungen, die 1787 begann und 1799 endete. Das Volk wollte das Verhältnis zwischen den Herrschenden und den Beherrschten ändern und die alte Definition des Wesens der politischen Macht zerstören. Die ausgestellten Werke trug dazu bei, ein Gefühl der gemeinsamen kulturellen Identität zu schaffen und die Werte der Aufklärung zu fördern. Wie zum Beispiel in diesem Fall die Freiheit, was ein zentraler Wert der Aufklärung ist.
 
-![2: Le Serment des Horaces Jacques-Louis David (1784)]()
+![2: Le Serment des Horaces Jacques-Louis David (1784)](image-000.jpg)
 
 Ein weitere ist „Der Schwur der Horatier“ von Jacques-Louis. Auf dem Gemälde strecken drei Brüder ihre Arme nach den drei Schwertern aus, die ihr Vater hält. Die Männer sollen an der Stelle ihrer eigenen Nationen bis zum Tod kämpfen. Das Gemälde spiegelt die Bürgertugend, die Pflicht und den Gedanken wider, dass der Einzelne im besten Interesse der Gesellschaft handeln sollte.
 
-![3: Le Radeau de la Méduse, Théodore Géricault (1718-19)]()
+![3: Le Radeau de la Méduse, Théodore Géricault (1718-19)](image-001.jpg)
 
 Weitere Gemälde sind "Das Eingreifen der Sabinerinnen" wieder von Jacques-Louis David, "Das Floß der Medusa" von Théodore Géricault und "Das türkische Bad" von Jean-Auguste-Dominique Ingres. Diese Gemälde sind für das Zeitalter der Aufklärung relevant, weil sie die Ideen und Werte der damaligen Zeit widerspiegeln. So schildert "Der Tod des Sokrates" das Bekenntnis des Philosophen zu Wahrheit und Vernunft, "Der Schwur der Horatier" die Idee des Opfers für das Allgemeinwohl, die während der Aufklärung wichtige Werte waren und „Floss der Medusa“ die Kämpfe und Nöte veranschaulicht, mit denen die Überlebenden konfrontiert sind. Es kann mit aufklärerischen Themen des menschlichen Leidens und der Bedeutung von Empathie und Mitgefühl in Verbindung gebracht werden.
 
@@ -29,11 +29,11 @@ Obwohl die Ideen der Aufklärungszeit durch Kunst lebend gehalten sind, kann man
 
 Es ist eine große Schande, den Louvre zu besuchen, nur um ein Gemälde zu sehen, nämlich die Mona Lisa von Leonardo Da Vinci, und nicht die Gelegenheit zu nutzen, die Vielfalt des Museums zu erleben. Besonders beeindruckend fand ich die Galerie des griechischen Sonnengottes Apollo, eine Darstellung der Identifikation des Königs Louis XIV mit dem Gott Apollo. Um dieses Meisterwerk der architektonischen Dekoration zu schaffen, berief er die besten Maler, Vergolder und Bildhauer seiner Zeit, die später auch am Spiegelsaal des Schlosses von Versailles arbeiteten. Heute beherbergt die Galerie d'Apollon die königliche Sammlung von Hartsteingefäßen und die französischen Kronjuwelen.
 
-![]()
+![](image-004.jpg)
 
-![]()
+![](image-003.jpg)
 
-![]()
+![](image-005.jpg)
 
 Die obigen Bilder stammen aus der Galerie von Apollo. Von links nach rechts: die königliche Sammlung von Hartsteingefäßen, die Krone von Louis XV, Augustin Duflos Laurent Rondé und die Decke des Raumes, die die detaillierte architektonische Gestaltung zeigt.
 
