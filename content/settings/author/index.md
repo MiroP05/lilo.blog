@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "m24c"
+name = "M24c"
 image = "/media/unknown.jpg"
 url = "/about/"
 +++
