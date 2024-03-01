@@ -3,6 +3,7 @@ title = "Musee Louvre Paris, La siècle des Lumières"
 date = "2024-01-29"
 draft = false
 pinned = false
+image = "image-000.jpg"
 +++
 Das Zeitalter der Aufklärung zwischen 1650 bis 1800 bezeichnet eine Zeit großen intellektuellen, kulturellen und philosophischen Wachstums in Europa, die die ganze Welt beeinflusse. In dieser Zeit begannen die Menschen, traditionelle Autoritäten wie die Kirche und Monarchie in Frage zu stellen und neue Ideen über Vernunft, Wissenschaft und individuelle Rechte anzunehmen. Die Ideen der Aufklärung prägten die moderne westliche Gesellschaft und beeinflussen bis heute unser Denken. Doch wie genau wurde die Kunst durch das Zeitalter der Aufklärung beeinflusst und wie entwickelte sie sich von da an weiter?
 
@@ -10,7 +11,7 @@ Der Mensch drückt sich seit jeher durch Kunst und Musik aus, und ihre Bedeutung
 
 Künstler verwendeten ihre Werke, um wichtige Ereignisse und Persönlichkeiten der Aufklärungszeit zu feiern. Sowie die Französische Revolution von Eugene Delacroix und den Philosophen Voltaire.
 
-![]()
+![](image-000.jpg "1: La Liberté guidant le peuple von Eugène Delacroix, 1830")
 
 Die Revolution war eine Zeit großer sozialer Umwälzungen, die 1787 begann und 1799 endete. Das Volk wollte das Verhältnis zwischen den Herrschenden und den Beherrschten ändern und die alte Definition des Wesens der politischen Macht zerstören. Die ausgestellten Werke trug dazu bei, ein Gefühl der gemeinsamen kulturellen Identität zu schaffen und die Werte der Aufklärung zu fördern. Wie zum Beispiel in diesem Fall die Freiheit, was ein zentraler Wert der Aufklärung ist.
 
