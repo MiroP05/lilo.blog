@@ -3,7 +3,7 @@ title = "Musee Louvre Paris, La siècle des Lumières"
 date = "2024-01-29"
 draft = false
 pinned = false
-image = "image-000.jpg"
+image = "image-002.jpg"
 +++
 Das Zeitalter der Aufklärung zwischen 1650 bis 1800 bezeichnet eine Zeit großen intellektuellen, kulturellen und philosophischen Wachstums in Europa, die die ganze Welt beeinflusse. In dieser Zeit begannen die Menschen, traditionelle Autoritäten wie die Kirche und Monarchie in Frage zu stellen und neue Ideen über Vernunft, Wissenschaft und individuelle Rechte anzunehmen. Die Ideen der Aufklärung prägten die moderne westliche Gesellschaft und beeinflussen bis heute unser Denken. Doch wie genau wurde die Kunst durch das Zeitalter der Aufklärung beeinflusst und wie entwickelte sie sich von da an weiter?
 
