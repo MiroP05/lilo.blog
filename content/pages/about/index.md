@@ -1,7 +1,7 @@
 +++
-title = "Unsere reise in Paris <3"
+title = "M24c in Paris"
 draft = false
 image = ""
 description = ""
 +++
-Mir si i Paris gsi.
+Wir waren in Paris und haben dort erforscht, wie die Aufklärung heute noch ersichtlich ist.
