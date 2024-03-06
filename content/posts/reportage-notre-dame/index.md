@@ -4,6 +4,7 @@ date = "2024-03-05"
 draft = false
 pinned = false
 image = "image-003.jpg"
+description = "Von Matin und Miro"
 +++
 Es ist ausgesprochen heiss und man profitiert davon, seine Wasserflasche vor dem Verlassen des Hotels gefüllt zu haben. Auch das Warten auf die wenigen Mitschüler, die 5 Minuten nach der vereinbarten Zeit noch nicht da sind, hilft bei dieser Hitze nicht. Als Sitzgelegenheit wird der Sockel einer Statue verwendet. Das laute Geräusch, welches von der Stadt um uns herum ausgeht, scheint plötzlich lauter zu sein als zuvor. Im Laufe der Tage, welche man in Paris verbringt, gewöhnt man sich an den ständigen Lärm von Autos, Schritten und Gesprächen. Der freiliegende Vorplatz vor der Notre Dame de Paris scheint eine Art Akkumulation der üblichen städtischen Attribute wie Gestank, Lärm und Hitze zu sein. Eine gewisse Müssigkeit in der Gruppe ist nicht zu verleugnen, denn am Vorabend haben viele bis spät in die Nacht gefeiert. Viele, mittlerweile gelangweilte, Blicke wandern rüber zu der Kathedrale, welch hinter vielen weissen Bauarbeiter-Pavillons hervorragt. Sie ist tatsächlich ein Blickfänger. Sobald sie auch nur in Sichtweite ist, fällt sie einem direkt auf. Doch in der Mittagshitze scheint niemand ihre Schönheit zu bemerken. Unsere Führerin, eine ältere deutsche Dame, welche bereits seit ein paar Minuten still die Mittagshitze erträgt, beginnt schliesslich über die Gotik zu erzählen.
 
