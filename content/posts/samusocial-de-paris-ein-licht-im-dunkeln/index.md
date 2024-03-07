@@ -4,6 +4,7 @@ date = "2024-03-01"
 draft = false
 pinned = false
 image = "image-000.jpg"
+description = "Von Leon und Moreno"
 +++
 {{<lead>}}
 
