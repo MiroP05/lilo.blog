@@ -4,6 +4,7 @@ date = "2024-01-09"
 draft = false
 pinned = false
 image = "image-000.jpg"
+description = "Von Kirin und Till"
 +++
 {{<lead>}}
 Mitten in Paris, nicht weit vom Eiffelturm entfernt steht die Schweizer Botschaft in Frankreich. Aus der Ferne ist das Gebäude kaum zu erkennen, da es sich von allen anderen Gebäuden nur schwer unterscheiden lässt. Aber mit zunehmender Nähe bemerkt man eine blaue Tür, die einzigartig in der Gegend ist. Rechts neben dieser Tür ist ein Schweizer Logo zu sehen. Diese beiden Merkmale geben uns die Sicherheit, dass wir vor dem richtigen Gebäude stehen.
