@@ -4,6 +4,7 @@ date = "2023-09-15"
 draft = false
 pinned = false
 image = "image-009.jpg"
+description = "Von Dorothee, Öykü und Sophie"
 +++
 {{<lead>}}
 
