@@ -1,5 +1,5 @@
 +++
-title = "Musee Louvre Paris, La siècle des Lumières"
+title = "Musee Louvre Paris — La siècle des Lumières"
 date = "2024-01-29"
 draft = false
 pinned = false
